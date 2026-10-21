@@ -1,0 +1,38 @@
+{
+  "name": "warp-dust-crusaders-board",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Warp Dust Crusaders coach board: live BCP pairings, Elo and forecasts for a 40K team event, on one Cloudflare Worker.",
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "check": "tsc --noEmit && vitest run && vite build",
+    "preview": "vite build && wrangler dev --local",
+    "deploy": "tsc --noEmit && vitest run && vite build && wrangler deploy",
+    "snapshot:elo": "node scripts/statcheck-elo.mjs",
+    "snapshot:matchups": "node scripts/statcheck-matchups.mjs",
+    "snapshot:history": "node scripts/bcp-history.mjs"
+  },
+  "dependencies": {
+    "react": "19.2.6",
+    "react-dom": "19.2.6"
+  },
+  "devDependencies": {
+    "@testing-library/react": "16.3.2",
+    "@types/node": "22.19.19",
+    "@types/react": "19.2.15",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "5.2.0",
+    "happy-dom": "20.10.4",
+    "typescript": "5.9.3",
+    "vite": "7.3.6",
+    "vitest": "4.1.10",
+    "wrangler": "4.118.0"
+  }
+}

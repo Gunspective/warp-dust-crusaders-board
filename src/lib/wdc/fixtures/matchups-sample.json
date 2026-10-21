@@ -1,0 +1,3314 @@
+{
+  "generatedAt": "2026-01-01T00:00:00.000Z",
+  "source": "synthetic test fixture: the 29 faction names Stat Check uses, with made-up win rates (mirror-consistent) so the tests never need Stat Check's numbers",
+  "meta": "fixture",
+  "updated": "2026-01-01",
+  "rows": {
+    "Adepta Sororitas": {
+      "Adeptus Custodes": {
+        "wr": 0.15,
+        "games": 60
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.44,
+        "games": 16
+      },
+      "Aeldari": {
+        "wr": 0.51,
+        "games": 19
+      },
+      "Astra Militarum": {
+        "wr": 0.58,
+        "games": 22
+      },
+      "Black Templars": {
+        "wr": 0.65,
+        "games": 25
+      },
+      "Blood Angels": {
+        "wr": 0.31,
+        "games": 28
+      },
+      "Chaos Daemons": {
+        "wr": 0.38,
+        "games": 31
+      },
+      "Chaos Knights": {
+        "wr": 0.45,
+        "games": 34
+      },
+      "Chaos Space Marines": {
+        "wr": 0.52,
+        "games": 37
+      },
+      "Dark Angels": {
+        "wr": 0.59,
+        "games": 40
+      },
+      "Death Guard": {
+        "wr": 0.66,
+        "games": 43
+      },
+      "Deathwatch": {
+        "wr": 0.32,
+        "games": 46
+      },
+      "Drukhari": {
+        "wr": 0.39,
+        "games": 49
+      },
+      "Emperor's Children": {
+        "wr": 0.46,
+        "games": 52
+      },
+      "Genestealer Cults": {
+        "wr": 0.53,
+        "games": 55
+      },
+      "Grey Knights": {
+        "wr": 0.6,
+        "games": 58
+      },
+      "Imperial Agents": {
+        "wr": 0.67,
+        "games": 11
+      },
+      "Imperial Knights": {
+        "wr": 0.33,
+        "games": 14
+      },
+      "Leagues of Votann": {
+        "wr": 0.4,
+        "games": 17
+      },
+      "Necrons": {
+        "wr": 0.47,
+        "games": 20
+      },
+      "No Faction": {
+        "wr": 0.54,
+        "games": 23
+      },
+      "Orks": {
+        "wr": 0.61,
+        "games": 26
+      },
+      "Space Marines": {
+        "wr": 0.68,
+        "games": 29
+      },
+      "Space Wolves": {
+        "wr": 0.34,
+        "games": 32
+      },
+      "T'au Empire": {
+        "wr": 0.41,
+        "games": 35
+      },
+      "Thousand Sons": {
+        "wr": 0.48,
+        "games": 38
+      },
+      "Tyranids": {
+        "wr": 0.55,
+        "games": 41
+      },
+      "World Eaters": {
+        "wr": 0.62,
+        "games": 44
+      }
+    },
+    "Adeptus Custodes": {
+      "Adepta Sororitas": {
+        "wr": 0.85,
+        "games": 60
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.55,
+        "games": 21
+      },
+      "Aeldari": {
+        "wr": 0.62,
+        "games": 24
+      },
+      "Astra Militarum": {
+        "wr": 0.69,
+        "games": 27
+      },
+      "Black Templars": {
+        "wr": 0.35,
+        "games": 30
+      },
+      "Blood Angels": {
+        "wr": 0.42,
+        "games": 33
+      },
+      "Chaos Daemons": {
+        "wr": 0.49,
+        "games": 36
+      },
+      "Chaos Knights": {
+        "wr": 0.56,
+        "games": 39
+      },
+      "Chaos Space Marines": {
+        "wr": 0.63,
+        "games": 42
+      },
+      "Dark Angels": {
+        "wr": 0.7,
+        "games": 45
+      },
+      "Death Guard": {
+        "wr": 0.36,
+        "games": 48
+      },
+      "Deathwatch": {
+        "wr": 0.43,
+        "games": 51
+      },
+      "Drukhari": {
+        "wr": 0.5,
+        "games": 54
+      },
+      "Emperor's Children": {
+        "wr": 0.57,
+        "games": 57
+      },
+      "Genestealer Cults": {
+        "wr": 0.64,
+        "games": 10
+      },
+      "Grey Knights": {
+        "wr": 0.3,
+        "games": 13
+      },
+      "Imperial Agents": {
+        "wr": 0.37,
+        "games": 16
+      },
+      "Imperial Knights": {
+        "wr": 0.44,
+        "games": 19
+      },
+      "Leagues of Votann": {
+        "wr": 0.51,
+        "games": 22
+      },
+      "Necrons": {
+        "wr": 0.58,
+        "games": 25
+      },
+      "No Faction": {
+        "wr": 0.65,
+        "games": 28
+      },
+      "Orks": {
+        "wr": 0.31,
+        "games": 31
+      },
+      "Space Marines": {
+        "wr": 0.38,
+        "games": 34
+      },
+      "Space Wolves": {
+        "wr": 0.45,
+        "games": 37
+      },
+      "T'au Empire": {
+        "wr": 0.52,
+        "games": 40
+      },
+      "Thousand Sons": {
+        "wr": 0.59,
+        "games": 43
+      },
+      "Tyranids": {
+        "wr": 0.66,
+        "games": 46
+      },
+      "World Eaters": {
+        "wr": 0.32,
+        "games": 49
+      }
+    },
+    "Adeptus Mechanicus": {
+      "Adepta Sororitas": {
+        "wr": 0.56,
+        "games": 16
+      },
+      "Adeptus Custodes": {
+        "wr": 0.45,
+        "games": 21
+      },
+      "Aeldari": {
+        "wr": 0.32,
+        "games": 29
+      },
+      "Astra Militarum": {
+        "wr": 0.39,
+        "games": 32
+      },
+      "Black Templars": {
+        "wr": 0.46,
+        "games": 35
+      },
+      "Blood Angels": {
+        "wr": 0.53,
+        "games": 38
+      },
+      "Chaos Daemons": {
+        "wr": 0.6,
+        "games": 41
+      },
+      "Chaos Knights": {
+        "wr": 0.67,
+        "games": 44
+      },
+      "Chaos Space Marines": {
+        "wr": 0.33,
+        "games": 47
+      },
+      "Dark Angels": {
+        "wr": 0.4,
+        "games": 50
+      },
+      "Death Guard": {
+        "wr": 0.47,
+        "games": 53
+      },
+      "Deathwatch": {
+        "wr": 0.54,
+        "games": 56
+      },
+      "Drukhari": {
+        "wr": 0.61,
+        "games": 59
+      },
+      "Emperor's Children": {
+        "wr": 0.68,
+        "games": 12
+      },
+      "Genestealer Cults": {
+        "wr": 0.34,
+        "games": 15
+      },
+      "Grey Knights": {
+        "wr": 0.41,
+        "games": 18
+      },
+      "Imperial Agents": {
+        "wr": 0.48,
+        "games": 21
+      },
+      "Imperial Knights": {
+        "wr": 0.55,
+        "games": 24
+      },
+      "Leagues of Votann": {
+        "wr": 0.62,
+        "games": 27
+      },
+      "Necrons": {
+        "wr": 0.69,
+        "games": 30
+      },
+      "No Faction": {
+        "wr": 0.35,
+        "games": 33
+      },
+      "Orks": {
+        "wr": 0.42,
+        "games": 36
+      },
+      "Space Marines": {
+        "wr": 0.49,
+        "games": 39
+      },
+      "Space Wolves": {
+        "wr": 0.56,
+        "games": 42
+      },
+      "T'au Empire": {
+        "wr": 0.63,
+        "games": 45
+      },
+      "Thousand Sons": {
+        "wr": 0.7,
+        "games": 48
+      },
+      "Tyranids": {
+        "wr": 0.36,
+        "games": 51
+      },
+      "World Eaters": {
+        "wr": 0.43,
+        "games": 54
+      }
+    },
+    "Aeldari": {
+      "Adepta Sororitas": {
+        "wr": 0.49,
+        "games": 19
+      },
+      "Adeptus Custodes": {
+        "wr": 0.38,
+        "games": 24
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.68,
+        "games": 29
+      },
+      "Astra Militarum": {
+        "wr": 0.5,
+        "games": 37
+      },
+      "Black Templars": {
+        "wr": 0.57,
+        "games": 40
+      },
+      "Blood Angels": {
+        "wr": 0.64,
+        "games": 43
+      },
+      "Chaos Daemons": {
+        "wr": 0.3,
+        "games": 46
+      },
+      "Chaos Knights": {
+        "wr": 0.37,
+        "games": 49
+      },
+      "Chaos Space Marines": {
+        "wr": 0.44,
+        "games": 52
+      },
+      "Dark Angels": {
+        "wr": 0.51,
+        "games": 55
+      },
+      "Death Guard": {
+        "wr": 0.58,
+        "games": 58
+      },
+      "Deathwatch": {
+        "wr": 0.65,
+        "games": 11
+      },
+      "Drukhari": {
+        "wr": 0.31,
+        "games": 14
+      },
+      "Emperor's Children": {
+        "wr": 0.38,
+        "games": 17
+      },
+      "Genestealer Cults": {
+        "wr": 0.45,
+        "games": 20
+      },
+      "Grey Knights": {
+        "wr": 0.52,
+        "games": 23
+      },
+      "Imperial Agents": {
+        "wr": 0.59,
+        "games": 26
+      },
+      "Imperial Knights": {
+        "wr": 0.66,
+        "games": 29
+      },
+      "Leagues of Votann": {
+        "wr": 0.32,
+        "games": 32
+      },
+      "Necrons": {
+        "wr": 0.39,
+        "games": 35
+      },
+      "No Faction": {
+        "wr": 0.46,
+        "games": 38
+      },
+      "Orks": {
+        "wr": 0.53,
+        "games": 41
+      },
+      "Space Marines": {
+        "wr": 0.6,
+        "games": 44
+      },
+      "Space Wolves": {
+        "wr": 0.67,
+        "games": 47
+      },
+      "T'au Empire": {
+        "wr": 0.33,
+        "games": 50
+      },
+      "Thousand Sons": {
+        "wr": 0.4,
+        "games": 53
+      },
+      "Tyranids": {
+        "wr": 0.47,
+        "games": 56
+      },
+      "World Eaters": {
+        "wr": 0.54,
+        "games": 59
+      }
+    },
+    "Astra Militarum": {
+      "Adepta Sororitas": {
+        "wr": 0.42,
+        "games": 22
+      },
+      "Adeptus Custodes": {
+        "wr": 0.31,
+        "games": 27
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.61,
+        "games": 32
+      },
+      "Aeldari": {
+        "wr": 0.5,
+        "games": 37
+      },
+      "Black Templars": {
+        "wr": 0.68,
+        "games": 45
+      },
+      "Blood Angels": {
+        "wr": 0.34,
+        "games": 48
+      },
+      "Chaos Daemons": {
+        "wr": 0.41,
+        "games": 51
+      },
+      "Chaos Knights": {
+        "wr": 0.48,
+        "games": 54
+      },
+      "Chaos Space Marines": {
+        "wr": 0.55,
+        "games": 57
+      },
+      "Dark Angels": {
+        "wr": 0.62,
+        "games": 10
+      },
+      "Death Guard": {
+        "wr": 0.69,
+        "games": 13
+      },
+      "Deathwatch": {
+        "wr": 0.35,
+        "games": 16
+      },
+      "Drukhari": {
+        "wr": 0.42,
+        "games": 19
+      },
+      "Emperor's Children": {
+        "wr": 0.49,
+        "games": 22
+      },
+      "Genestealer Cults": {
+        "wr": 0.56,
+        "games": 25
+      },
+      "Grey Knights": {
+        "wr": 0.63,
+        "games": 28
+      },
+      "Imperial Agents": {
+        "wr": 0.7,
+        "games": 31
+      },
+      "Imperial Knights": {
+        "wr": 0.36,
+        "games": 34
+      },
+      "Leagues of Votann": {
+        "wr": 0.43,
+        "games": 37
+      },
+      "Necrons": {
+        "wr": 0.5,
+        "games": 40
+      },
+      "No Faction": {
+        "wr": 0.57,
+        "games": 43
+      },
+      "Orks": {
+        "wr": 0.64,
+        "games": 46
+      },
+      "Space Marines": {
+        "wr": 0.3,
+        "games": 49
+      },
+      "Space Wolves": {
+        "wr": 0.37,
+        "games": 52
+      },
+      "T'au Empire": {
+        "wr": 0.44,
+        "games": 55
+      },
+      "Thousand Sons": {
+        "wr": 0.51,
+        "games": 58
+      },
+      "Tyranids": {
+        "wr": 0.58,
+        "games": 11
+      },
+      "World Eaters": {
+        "wr": 0.65,
+        "games": 14
+      }
+    },
+    "Black Templars": {
+      "Adepta Sororitas": {
+        "wr": 0.35,
+        "games": 25
+      },
+      "Adeptus Custodes": {
+        "wr": 0.65,
+        "games": 30
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.54,
+        "games": 35
+      },
+      "Aeldari": {
+        "wr": 0.43,
+        "games": 40
+      },
+      "Astra Militarum": {
+        "wr": 0.32,
+        "games": 45
+      },
+      "Blood Angels": {
+        "wr": 0.45,
+        "games": 53
+      },
+      "Chaos Daemons": {
+        "wr": 0.52,
+        "games": 56
+      },
+      "Chaos Knights": {
+        "wr": 0.59,
+        "games": 59
+      },
+      "Chaos Space Marines": {
+        "wr": 0.66,
+        "games": 12
+      },
+      "Dark Angels": {
+        "wr": 0.32,
+        "games": 15
+      },
+      "Death Guard": {
+        "wr": 0.39,
+        "games": 18
+      },
+      "Deathwatch": {
+        "wr": 0.46,
+        "games": 21
+      },
+      "Drukhari": {
+        "wr": 0.53,
+        "games": 24
+      },
+      "Emperor's Children": {
+        "wr": 0.6,
+        "games": 27
+      },
+      "Genestealer Cults": {
+        "wr": 0.67,
+        "games": 30
+      },
+      "Grey Knights": {
+        "wr": 0.33,
+        "games": 33
+      },
+      "Imperial Agents": {
+        "wr": 0.4,
+        "games": 36
+      },
+      "Imperial Knights": {
+        "wr": 0.47,
+        "games": 39
+      },
+      "Leagues of Votann": {
+        "wr": 0.54,
+        "games": 42
+      },
+      "Necrons": {
+        "wr": 0.61,
+        "games": 45
+      },
+      "No Faction": {
+        "wr": 0.68,
+        "games": 48
+      },
+      "Orks": {
+        "wr": 0.34,
+        "games": 51
+      },
+      "Space Marines": {
+        "wr": 0.41,
+        "games": 54
+      },
+      "Space Wolves": {
+        "wr": 0.48,
+        "games": 57
+      },
+      "T'au Empire": {
+        "wr": 0.55,
+        "games": 10
+      },
+      "Thousand Sons": {
+        "wr": 0.62,
+        "games": 13
+      },
+      "Tyranids": {
+        "wr": 0.69,
+        "games": 16
+      },
+      "World Eaters": {
+        "wr": 0.35,
+        "games": 19
+      }
+    },
+    "Blood Angels": {
+      "Adepta Sororitas": {
+        "wr": 0.69,
+        "games": 28
+      },
+      "Adeptus Custodes": {
+        "wr": 0.58,
+        "games": 33
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.47,
+        "games": 38
+      },
+      "Aeldari": {
+        "wr": 0.36,
+        "games": 43
+      },
+      "Astra Militarum": {
+        "wr": 0.66,
+        "games": 48
+      },
+      "Black Templars": {
+        "wr": 0.55,
+        "games": 53
+      },
+      "Chaos Daemons": {
+        "wr": 0.63,
+        "games": 11
+      },
+      "Chaos Knights": {
+        "wr": 0.7,
+        "games": 14
+      },
+      "Chaos Space Marines": {
+        "wr": 0.36,
+        "games": 17
+      },
+      "Dark Angels": {
+        "wr": 0.43,
+        "games": 20
+      },
+      "Death Guard": {
+        "wr": 0.5,
+        "games": 23
+      },
+      "Deathwatch": {
+        "wr": 0.57,
+        "games": 26
+      },
+      "Drukhari": {
+        "wr": 0.64,
+        "games": 29
+      },
+      "Emperor's Children": {
+        "wr": 0.3,
+        "games": 32
+      },
+      "Genestealer Cults": {
+        "wr": 0.37,
+        "games": 35
+      },
+      "Grey Knights": {
+        "wr": 0.44,
+        "games": 38
+      },
+      "Imperial Agents": {
+        "wr": 0.51,
+        "games": 41
+      },
+      "Imperial Knights": {
+        "wr": 0.58,
+        "games": 44
+      },
+      "Leagues of Votann": {
+        "wr": 0.65,
+        "games": 47
+      },
+      "Necrons": {
+        "wr": 0.31,
+        "games": 50
+      },
+      "No Faction": {
+        "wr": 0.38,
+        "games": 53
+      },
+      "Orks": {
+        "wr": 0.45,
+        "games": 56
+      },
+      "Space Marines": {
+        "wr": 0.52,
+        "games": 59
+      },
+      "Space Wolves": {
+        "wr": 0.59,
+        "games": 12
+      },
+      "T'au Empire": {
+        "wr": 0.66,
+        "games": 15
+      },
+      "Thousand Sons": {
+        "wr": 0.32,
+        "games": 18
+      },
+      "Tyranids": {
+        "wr": 0.39,
+        "games": 21
+      },
+      "World Eaters": {
+        "wr": 0.46,
+        "games": 24
+      }
+    },
+    "Chaos Daemons": {
+      "Adepta Sororitas": {
+        "wr": 0.62,
+        "games": 31
+      },
+      "Adeptus Custodes": {
+        "wr": 0.51,
+        "games": 36
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.4,
+        "games": 41
+      },
+      "Aeldari": {
+        "wr": 0.7,
+        "games": 46
+      },
+      "Astra Militarum": {
+        "wr": 0.59,
+        "games": 51
+      },
+      "Black Templars": {
+        "wr": 0.48,
+        "games": 56
+      },
+      "Blood Angels": {
+        "wr": 0.37,
+        "games": 11
+      },
+      "Chaos Knights": {
+        "wr": 0.4,
+        "games": 19
+      },
+      "Chaos Space Marines": {
+        "wr": 0.47,
+        "games": 22
+      },
+      "Dark Angels": {
+        "wr": 0.54,
+        "games": 25
+      },
+      "Death Guard": {
+        "wr": 0.61,
+        "games": 28
+      },
+      "Deathwatch": {
+        "wr": 0.68,
+        "games": 31
+      },
+      "Drukhari": {
+        "wr": 0.34,
+        "games": 34
+      },
+      "Emperor's Children": {
+        "wr": 0.41,
+        "games": 37
+      },
+      "Genestealer Cults": {
+        "wr": 0.48,
+        "games": 40
+      },
+      "Grey Knights": {
+        "wr": 0.55,
+        "games": 43
+      },
+      "Imperial Agents": {
+        "wr": 0.62,
+        "games": 46
+      },
+      "Imperial Knights": {
+        "wr": 0.69,
+        "games": 49
+      },
+      "Leagues of Votann": {
+        "wr": 0.35,
+        "games": 52
+      },
+      "Necrons": {
+        "wr": 0.42,
+        "games": 55
+      },
+      "No Faction": {
+        "wr": 0.49,
+        "games": 58
+      },
+      "Orks": {
+        "wr": 0.56,
+        "games": 11
+      },
+      "Space Marines": {
+        "wr": 0.63,
+        "games": 14
+      },
+      "Space Wolves": {
+        "wr": 0.7,
+        "games": 17
+      },
+      "T'au Empire": {
+        "wr": 0.36,
+        "games": 20
+      },
+      "Thousand Sons": {
+        "wr": 0.43,
+        "games": 23
+      },
+      "Tyranids": {
+        "wr": 0.5,
+        "games": 26
+      },
+      "World Eaters": {
+        "wr": 0.57,
+        "games": 29
+      }
+    },
+    "Chaos Knights": {
+      "Adepta Sororitas": {
+        "wr": 0.55,
+        "games": 34
+      },
+      "Adeptus Custodes": {
+        "wr": 0.44,
+        "games": 39
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.33,
+        "games": 44
+      },
+      "Aeldari": {
+        "wr": 0.63,
+        "games": 49
+      },
+      "Astra Militarum": {
+        "wr": 0.52,
+        "games": 54
+      },
+      "Black Templars": {
+        "wr": 0.41,
+        "games": 59
+      },
+      "Blood Angels": {
+        "wr": 0.3,
+        "games": 14
+      },
+      "Chaos Daemons": {
+        "wr": 0.6,
+        "games": 19
+      },
+      "Chaos Space Marines": {
+        "wr": 0.58,
+        "games": 27
+      },
+      "Dark Angels": {
+        "wr": 0.65,
+        "games": 30
+      },
+      "Death Guard": {
+        "wr": 0.31,
+        "games": 33
+      },
+      "Deathwatch": {
+        "wr": 0.38,
+        "games": 36
+      },
+      "Drukhari": {
+        "wr": 0.45,
+        "games": 39
+      },
+      "Emperor's Children": {
+        "wr": 0.52,
+        "games": 42
+      },
+      "Genestealer Cults": {
+        "wr": 0.59,
+        "games": 45
+      },
+      "Grey Knights": {
+        "wr": 0.66,
+        "games": 48
+      },
+      "Imperial Agents": {
+        "wr": 0.32,
+        "games": 51
+      },
+      "Imperial Knights": {
+        "wr": 0.39,
+        "games": 54
+      },
+      "Leagues of Votann": {
+        "wr": 0.46,
+        "games": 57
+      },
+      "Necrons": {
+        "wr": 0.53,
+        "games": 10
+      },
+      "No Faction": {
+        "wr": 0.6,
+        "games": 13
+      },
+      "Orks": {
+        "wr": 0.67,
+        "games": 16
+      },
+      "Space Marines": {
+        "wr": 0.33,
+        "games": 19
+      },
+      "Space Wolves": {
+        "wr": 0.4,
+        "games": 22
+      },
+      "T'au Empire": {
+        "wr": 0.47,
+        "games": 25
+      },
+      "Thousand Sons": {
+        "wr": 0.54,
+        "games": 28
+      },
+      "Tyranids": {
+        "wr": 0.61,
+        "games": 31
+      },
+      "World Eaters": {
+        "wr": 0.68,
+        "games": 34
+      }
+    },
+    "Chaos Space Marines": {
+      "Adepta Sororitas": {
+        "wr": 0.48,
+        "games": 37
+      },
+      "Adeptus Custodes": {
+        "wr": 0.37,
+        "games": 42
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.67,
+        "games": 47
+      },
+      "Aeldari": {
+        "wr": 0.56,
+        "games": 52
+      },
+      "Astra Militarum": {
+        "wr": 0.45,
+        "games": 57
+      },
+      "Black Templars": {
+        "wr": 0.34,
+        "games": 12
+      },
+      "Blood Angels": {
+        "wr": 0.64,
+        "games": 17
+      },
+      "Chaos Daemons": {
+        "wr": 0.53,
+        "games": 22
+      },
+      "Chaos Knights": {
+        "wr": 0.42,
+        "games": 27
+      },
+      "Dark Angels": {
+        "wr": 0.35,
+        "games": 35
+      },
+      "Death Guard": {
+        "wr": 0.42,
+        "games": 38
+      },
+      "Deathwatch": {
+        "wr": 0.49,
+        "games": 41
+      },
+      "Drukhari": {
+        "wr": 0.56,
+        "games": 44
+      },
+      "Emperor's Children": {
+        "wr": 0.63,
+        "games": 47
+      },
+      "Genestealer Cults": {
+        "wr": 0.7,
+        "games": 50
+      },
+      "Grey Knights": {
+        "wr": 0.36,
+        "games": 53
+      },
+      "Imperial Agents": {
+        "wr": 0.43,
+        "games": 56
+      },
+      "Imperial Knights": {
+        "wr": 0.5,
+        "games": 59
+      },
+      "Leagues of Votann": {
+        "wr": 0.57,
+        "games": 12
+      },
+      "Necrons": {
+        "wr": 0.64,
+        "games": 15
+      },
+      "No Faction": {
+        "wr": 0.3,
+        "games": 18
+      },
+      "Orks": {
+        "wr": 0.37,
+        "games": 21
+      },
+      "Space Marines": {
+        "wr": 0.44,
+        "games": 24
+      },
+      "Space Wolves": {
+        "wr": 0.51,
+        "games": 27
+      },
+      "T'au Empire": {
+        "wr": 0.58,
+        "games": 30
+      },
+      "Thousand Sons": {
+        "wr": 0.65,
+        "games": 33
+      },
+      "Tyranids": {
+        "wr": 0.31,
+        "games": 36
+      },
+      "World Eaters": {
+        "wr": 0.38,
+        "games": 39
+      }
+    },
+    "Dark Angels": {
+      "Adepta Sororitas": {
+        "wr": 0.41,
+        "games": 40
+      },
+      "Adeptus Custodes": {
+        "wr": 0.3,
+        "games": 45
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.6,
+        "games": 50
+      },
+      "Aeldari": {
+        "wr": 0.49,
+        "games": 55
+      },
+      "Astra Militarum": {
+        "wr": 0.38,
+        "games": 10
+      },
+      "Black Templars": {
+        "wr": 0.68,
+        "games": 15
+      },
+      "Blood Angels": {
+        "wr": 0.57,
+        "games": 20
+      },
+      "Chaos Daemons": {
+        "wr": 0.46,
+        "games": 25
+      },
+      "Chaos Knights": {
+        "wr": 0.35,
+        "games": 30
+      },
+      "Chaos Space Marines": {
+        "wr": 0.65,
+        "games": 35
+      },
+      "Death Guard": {
+        "wr": 0.53,
+        "games": 43
+      },
+      "Deathwatch": {
+        "wr": 0.6,
+        "games": 46
+      },
+      "Drukhari": {
+        "wr": 0.67,
+        "games": 49
+      },
+      "Emperor's Children": {
+        "wr": 0.33,
+        "games": 52
+      },
+      "Genestealer Cults": {
+        "wr": 0.4,
+        "games": 55
+      },
+      "Grey Knights": {
+        "wr": 0.47,
+        "games": 58
+      },
+      "Imperial Agents": {
+        "wr": 0.54,
+        "games": 11
+      },
+      "Imperial Knights": {
+        "wr": 0.61,
+        "games": 14
+      },
+      "Leagues of Votann": {
+        "wr": 0.68,
+        "games": 17
+      },
+      "Necrons": {
+        "wr": 0.34,
+        "games": 20
+      },
+      "No Faction": {
+        "wr": 0.41,
+        "games": 23
+      },
+      "Orks": {
+        "wr": 0.48,
+        "games": 26
+      },
+      "Space Marines": {
+        "wr": 0.55,
+        "games": 29
+      },
+      "Space Wolves": {
+        "wr": 0.62,
+        "games": 32
+      },
+      "T'au Empire": {
+        "wr": 0.69,
+        "games": 35
+      },
+      "Thousand Sons": {
+        "wr": 0.35,
+        "games": 38
+      },
+      "Tyranids": {
+        "wr": 0.42,
+        "games": 41
+      },
+      "World Eaters": {
+        "wr": 0.49,
+        "games": 44
+      }
+    },
+    "Death Guard": {
+      "Adepta Sororitas": {
+        "wr": 0.34,
+        "games": 43
+      },
+      "Adeptus Custodes": {
+        "wr": 0.64,
+        "games": 48
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.53,
+        "games": 53
+      },
+      "Aeldari": {
+        "wr": 0.42,
+        "games": 58
+      },
+      "Astra Militarum": {
+        "wr": 0.31,
+        "games": 13
+      },
+      "Black Templars": {
+        "wr": 0.61,
+        "games": 18
+      },
+      "Blood Angels": {
+        "wr": 0.5,
+        "games": 23
+      },
+      "Chaos Daemons": {
+        "wr": 0.39,
+        "games": 28
+      },
+      "Chaos Knights": {
+        "wr": 0.69,
+        "games": 33
+      },
+      "Chaos Space Marines": {
+        "wr": 0.58,
+        "games": 38
+      },
+      "Dark Angels": {
+        "wr": 0.47,
+        "games": 43
+      },
+      "Deathwatch": {
+        "wr": 0.3,
+        "games": 51
+      },
+      "Drukhari": {
+        "wr": 0.37,
+        "games": 54
+      },
+      "Emperor's Children": {
+        "wr": 0.44,
+        "games": 57
+      },
+      "Genestealer Cults": {
+        "wr": 0.51,
+        "games": 10
+      },
+      "Grey Knights": {
+        "wr": 0.58,
+        "games": 13
+      },
+      "Imperial Agents": {
+        "wr": 0.65,
+        "games": 16
+      },
+      "Imperial Knights": {
+        "wr": 0.31,
+        "games": 19
+      },
+      "Leagues of Votann": {
+        "wr": 0.38,
+        "games": 22
+      },
+      "Necrons": {
+        "wr": 0.45,
+        "games": 25
+      },
+      "No Faction": {
+        "wr": 0.52,
+        "games": 28
+      },
+      "Orks": {
+        "wr": 0.59,
+        "games": 31
+      },
+      "Space Marines": {
+        "wr": 0.66,
+        "games": 34
+      },
+      "Space Wolves": {
+        "wr": 0.32,
+        "games": 37
+      },
+      "T'au Empire": {
+        "wr": 0.39,
+        "games": 40
+      },
+      "Thousand Sons": {
+        "wr": 0.46,
+        "games": 43
+      },
+      "Tyranids": {
+        "wr": 0.53,
+        "games": 46
+      },
+      "World Eaters": {
+        "wr": 0.6,
+        "games": 49
+      }
+    },
+    "Deathwatch": {
+      "Adepta Sororitas": {
+        "wr": 0.68,
+        "games": 46
+      },
+      "Adeptus Custodes": {
+        "wr": 0.57,
+        "games": 51
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.46,
+        "games": 56
+      },
+      "Aeldari": {
+        "wr": 0.35,
+        "games": 11
+      },
+      "Astra Militarum": {
+        "wr": 0.65,
+        "games": 16
+      },
+      "Black Templars": {
+        "wr": 0.54,
+        "games": 21
+      },
+      "Blood Angels": {
+        "wr": 0.43,
+        "games": 26
+      },
+      "Chaos Daemons": {
+        "wr": 0.32,
+        "games": 31
+      },
+      "Chaos Knights": {
+        "wr": 0.62,
+        "games": 36
+      },
+      "Chaos Space Marines": {
+        "wr": 0.51,
+        "games": 41
+      },
+      "Dark Angels": {
+        "wr": 0.4,
+        "games": 46
+      },
+      "Death Guard": {
+        "wr": 0.7,
+        "games": 51
+      },
+      "Drukhari": {
+        "wr": 0.48,
+        "games": 59
+      },
+      "Emperor's Children": {
+        "wr": 0.55,
+        "games": 12
+      },
+      "Genestealer Cults": {
+        "wr": 0.62,
+        "games": 15
+      },
+      "Grey Knights": {
+        "wr": 0.69,
+        "games": 18
+      },
+      "Imperial Agents": {
+        "wr": 0.35,
+        "games": 21
+      },
+      "Imperial Knights": {
+        "wr": 0.42,
+        "games": 24
+      },
+      "Leagues of Votann": {
+        "wr": 0.49,
+        "games": 27
+      },
+      "Necrons": {
+        "wr": 0.56,
+        "games": 30
+      },
+      "No Faction": {
+        "wr": 0.63,
+        "games": 33
+      },
+      "Orks": {
+        "wr": 0.7,
+        "games": 36
+      },
+      "Space Marines": {
+        "wr": 0.36,
+        "games": 39
+      },
+      "Space Wolves": {
+        "wr": 0.43,
+        "games": 42
+      },
+      "T'au Empire": {
+        "wr": 0.5,
+        "games": 45
+      },
+      "Thousand Sons": {
+        "wr": 0.57,
+        "games": 48
+      },
+      "Tyranids": {
+        "wr": 0.64,
+        "games": 51
+      },
+      "World Eaters": {
+        "wr": 0.3,
+        "games": 54
+      }
+    },
+    "Drukhari": {
+      "Adepta Sororitas": {
+        "wr": 0.61,
+        "games": 49
+      },
+      "Adeptus Custodes": {
+        "wr": 0.5,
+        "games": 54
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.39,
+        "games": 59
+      },
+      "Aeldari": {
+        "wr": 0.69,
+        "games": 14
+      },
+      "Astra Militarum": {
+        "wr": 0.58,
+        "games": 19
+      },
+      "Black Templars": {
+        "wr": 0.47,
+        "games": 24
+      },
+      "Blood Angels": {
+        "wr": 0.36,
+        "games": 29
+      },
+      "Chaos Daemons": {
+        "wr": 0.66,
+        "games": 34
+      },
+      "Chaos Knights": {
+        "wr": 0.55,
+        "games": 39
+      },
+      "Chaos Space Marines": {
+        "wr": 0.44,
+        "games": 44
+      },
+      "Dark Angels": {
+        "wr": 0.33,
+        "games": 49
+      },
+      "Death Guard": {
+        "wr": 0.63,
+        "games": 54
+      },
+      "Deathwatch": {
+        "wr": 0.52,
+        "games": 59
+      },
+      "Emperor's Children": {
+        "wr": 0.66,
+        "games": 17
+      },
+      "Genestealer Cults": {
+        "wr": 0.32,
+        "games": 20
+      },
+      "Grey Knights": {
+        "wr": 0.39,
+        "games": 23
+      },
+      "Imperial Agents": {
+        "wr": 0.46,
+        "games": 26
+      },
+      "Imperial Knights": {
+        "wr": 0.53,
+        "games": 29
+      },
+      "Leagues of Votann": {
+        "wr": 0.6,
+        "games": 32
+      },
+      "Necrons": {
+        "wr": 0.67,
+        "games": 35
+      },
+      "No Faction": {
+        "wr": 0.33,
+        "games": 38
+      },
+      "Orks": {
+        "wr": 0.4,
+        "games": 41
+      },
+      "Space Marines": {
+        "wr": 0.47,
+        "games": 44
+      },
+      "Space Wolves": {
+        "wr": 0.54,
+        "games": 47
+      },
+      "T'au Empire": {
+        "wr": 0.61,
+        "games": 50
+      },
+      "Thousand Sons": {
+        "wr": 0.68,
+        "games": 53
+      },
+      "Tyranids": {
+        "wr": 0.34,
+        "games": 56
+      },
+      "World Eaters": {
+        "wr": 0.41,
+        "games": 59
+      }
+    },
+    "Emperor's Children": {
+      "Adepta Sororitas": {
+        "wr": 0.54,
+        "games": 52
+      },
+      "Adeptus Custodes": {
+        "wr": 0.43,
+        "games": 57
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.32,
+        "games": 12
+      },
+      "Aeldari": {
+        "wr": 0.62,
+        "games": 17
+      },
+      "Astra Militarum": {
+        "wr": 0.51,
+        "games": 22
+      },
+      "Black Templars": {
+        "wr": 0.4,
+        "games": 27
+      },
+      "Blood Angels": {
+        "wr": 0.7,
+        "games": 32
+      },
+      "Chaos Daemons": {
+        "wr": 0.59,
+        "games": 37
+      },
+      "Chaos Knights": {
+        "wr": 0.48,
+        "games": 42
+      },
+      "Chaos Space Marines": {
+        "wr": 0.37,
+        "games": 47
+      },
+      "Dark Angels": {
+        "wr": 0.67,
+        "games": 52
+      },
+      "Death Guard": {
+        "wr": 0.56,
+        "games": 57
+      },
+      "Deathwatch": {
+        "wr": 0.45,
+        "games": 12
+      },
+      "Drukhari": {
+        "wr": 0.34,
+        "games": 17
+      },
+      "Genestealer Cults": {
+        "wr": 0.43,
+        "games": 25
+      },
+      "Grey Knights": {
+        "wr": 0.5,
+        "games": 28
+      },
+      "Imperial Agents": {
+        "wr": 0.57,
+        "games": 31
+      },
+      "Imperial Knights": {
+        "wr": 0.64,
+        "games": 34
+      },
+      "Leagues of Votann": {
+        "wr": 0.3,
+        "games": 37
+      },
+      "Necrons": {
+        "wr": 0.37,
+        "games": 40
+      },
+      "No Faction": {
+        "wr": 0.44,
+        "games": 43
+      },
+      "Orks": {
+        "wr": 0.51,
+        "games": 46
+      },
+      "Space Marines": {
+        "wr": 0.58,
+        "games": 49
+      },
+      "Space Wolves": {
+        "wr": 0.65,
+        "games": 52
+      },
+      "T'au Empire": {
+        "wr": 0.31,
+        "games": 55
+      },
+      "Thousand Sons": {
+        "wr": 0.38,
+        "games": 58
+      },
+      "Tyranids": {
+        "wr": 0.45,
+        "games": 11
+      },
+      "World Eaters": {
+        "wr": 0.52,
+        "games": 14
+      }
+    },
+    "Genestealer Cults": {
+      "Adepta Sororitas": {
+        "wr": 0.47,
+        "games": 55
+      },
+      "Adeptus Custodes": {
+        "wr": 0.36,
+        "games": 10
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.66,
+        "games": 15
+      },
+      "Aeldari": {
+        "wr": 0.55,
+        "games": 20
+      },
+      "Astra Militarum": {
+        "wr": 0.44,
+        "games": 25
+      },
+      "Black Templars": {
+        "wr": 0.33,
+        "games": 30
+      },
+      "Blood Angels": {
+        "wr": 0.63,
+        "games": 35
+      },
+      "Chaos Daemons": {
+        "wr": 0.52,
+        "games": 40
+      },
+      "Chaos Knights": {
+        "wr": 0.41,
+        "games": 45
+      },
+      "Chaos Space Marines": {
+        "wr": 0.3,
+        "games": 50
+      },
+      "Dark Angels": {
+        "wr": 0.6,
+        "games": 55
+      },
+      "Death Guard": {
+        "wr": 0.49,
+        "games": 10
+      },
+      "Deathwatch": {
+        "wr": 0.38,
+        "games": 15
+      },
+      "Drukhari": {
+        "wr": 0.68,
+        "games": 20
+      },
+      "Emperor's Children": {
+        "wr": 0.57,
+        "games": 25
+      },
+      "Grey Knights": {
+        "wr": 0.61,
+        "games": 33
+      },
+      "Imperial Agents": {
+        "wr": 0.68,
+        "games": 36
+      },
+      "Imperial Knights": {
+        "wr": 0.34,
+        "games": 39
+      },
+      "Leagues of Votann": {
+        "wr": 0.41,
+        "games": 42
+      },
+      "Necrons": {
+        "wr": 0.48,
+        "games": 45
+      },
+      "No Faction": {
+        "wr": 0.55,
+        "games": 48
+      },
+      "Orks": {
+        "wr": 0.62,
+        "games": 51
+      },
+      "Space Marines": {
+        "wr": 0.69,
+        "games": 54
+      },
+      "Space Wolves": {
+        "wr": 0.35,
+        "games": 57
+      },
+      "T'au Empire": {
+        "wr": 0.42,
+        "games": 10
+      },
+      "Thousand Sons": {
+        "wr": 0.49,
+        "games": 13
+      },
+      "Tyranids": {
+        "wr": 0.56,
+        "games": 16
+      },
+      "World Eaters": {
+        "wr": 0.63,
+        "games": 19
+      }
+    },
+    "Grey Knights": {
+      "Adepta Sororitas": {
+        "wr": 0.4,
+        "games": 58
+      },
+      "Adeptus Custodes": {
+        "wr": 0.7,
+        "games": 13
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.59,
+        "games": 18
+      },
+      "Aeldari": {
+        "wr": 0.48,
+        "games": 23
+      },
+      "Astra Militarum": {
+        "wr": 0.37,
+        "games": 28
+      },
+      "Black Templars": {
+        "wr": 0.67,
+        "games": 33
+      },
+      "Blood Angels": {
+        "wr": 0.56,
+        "games": 38
+      },
+      "Chaos Daemons": {
+        "wr": 0.45,
+        "games": 43
+      },
+      "Chaos Knights": {
+        "wr": 0.34,
+        "games": 48
+      },
+      "Chaos Space Marines": {
+        "wr": 0.64,
+        "games": 53
+      },
+      "Dark Angels": {
+        "wr": 0.53,
+        "games": 58
+      },
+      "Death Guard": {
+        "wr": 0.42,
+        "games": 13
+      },
+      "Deathwatch": {
+        "wr": 0.31,
+        "games": 18
+      },
+      "Drukhari": {
+        "wr": 0.61,
+        "games": 23
+      },
+      "Emperor's Children": {
+        "wr": 0.5,
+        "games": 28
+      },
+      "Genestealer Cults": {
+        "wr": 0.39,
+        "games": 33
+      },
+      "Imperial Agents": {
+        "wr": 0.38,
+        "games": 41
+      },
+      "Imperial Knights": {
+        "wr": 0.45,
+        "games": 44
+      },
+      "Leagues of Votann": {
+        "wr": 0.52,
+        "games": 47
+      },
+      "Necrons": {
+        "wr": 0.59,
+        "games": 50
+      },
+      "No Faction": {
+        "wr": 0.66,
+        "games": 53
+      },
+      "Orks": {
+        "wr": 0.32,
+        "games": 56
+      },
+      "Space Marines": {
+        "wr": 0.39,
+        "games": 59
+      },
+      "Space Wolves": {
+        "wr": 0.46,
+        "games": 12
+      },
+      "T'au Empire": {
+        "wr": 0.53,
+        "games": 15
+      },
+      "Thousand Sons": {
+        "wr": 0.6,
+        "games": 18
+      },
+      "Tyranids": {
+        "wr": 0.67,
+        "games": 21
+      },
+      "World Eaters": {
+        "wr": 0.33,
+        "games": 24
+      }
+    },
+    "Imperial Agents": {
+      "Adepta Sororitas": {
+        "wr": 0.33,
+        "games": 11
+      },
+      "Adeptus Custodes": {
+        "wr": 0.63,
+        "games": 16
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.52,
+        "games": 21
+      },
+      "Aeldari": {
+        "wr": 0.41,
+        "games": 26
+      },
+      "Astra Militarum": {
+        "wr": 0.3,
+        "games": 31
+      },
+      "Black Templars": {
+        "wr": 0.6,
+        "games": 36
+      },
+      "Blood Angels": {
+        "wr": 0.49,
+        "games": 41
+      },
+      "Chaos Daemons": {
+        "wr": 0.38,
+        "games": 46
+      },
+      "Chaos Knights": {
+        "wr": 0.68,
+        "games": 51
+      },
+      "Chaos Space Marines": {
+        "wr": 0.57,
+        "games": 56
+      },
+      "Dark Angels": {
+        "wr": 0.46,
+        "games": 11
+      },
+      "Death Guard": {
+        "wr": 0.35,
+        "games": 16
+      },
+      "Deathwatch": {
+        "wr": 0.65,
+        "games": 21
+      },
+      "Drukhari": {
+        "wr": 0.54,
+        "games": 26
+      },
+      "Emperor's Children": {
+        "wr": 0.43,
+        "games": 31
+      },
+      "Genestealer Cults": {
+        "wr": 0.32,
+        "games": 36
+      },
+      "Grey Knights": {
+        "wr": 0.62,
+        "games": 41
+      },
+      "Imperial Knights": {
+        "wr": 0.56,
+        "games": 49
+      },
+      "Leagues of Votann": {
+        "wr": 0.63,
+        "games": 52
+      },
+      "Necrons": {
+        "wr": 0.7,
+        "games": 55
+      },
+      "No Faction": {
+        "wr": 0.36,
+        "games": 58
+      },
+      "Orks": {
+        "wr": 0.43,
+        "games": 11
+      },
+      "Space Marines": {
+        "wr": 0.5,
+        "games": 14
+      },
+      "Space Wolves": {
+        "wr": 0.57,
+        "games": 17
+      },
+      "T'au Empire": {
+        "wr": 0.64,
+        "games": 20
+      },
+      "Thousand Sons": {
+        "wr": 0.3,
+        "games": 23
+      },
+      "Tyranids": {
+        "wr": 0.37,
+        "games": 26
+      },
+      "World Eaters": {
+        "wr": 0.44,
+        "games": 29
+      }
+    },
+    "Imperial Knights": {
+      "Adepta Sororitas": {
+        "wr": 0.67,
+        "games": 14
+      },
+      "Adeptus Custodes": {
+        "wr": 0.56,
+        "games": 19
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.45,
+        "games": 24
+      },
+      "Aeldari": {
+        "wr": 0.34,
+        "games": 29
+      },
+      "Astra Militarum": {
+        "wr": 0.64,
+        "games": 34
+      },
+      "Black Templars": {
+        "wr": 0.53,
+        "games": 39
+      },
+      "Blood Angels": {
+        "wr": 0.42,
+        "games": 44
+      },
+      "Chaos Daemons": {
+        "wr": 0.31,
+        "games": 49
+      },
+      "Chaos Knights": {
+        "wr": 0.61,
+        "games": 54
+      },
+      "Chaos Space Marines": {
+        "wr": 0.5,
+        "games": 59
+      },
+      "Dark Angels": {
+        "wr": 0.39,
+        "games": 14
+      },
+      "Death Guard": {
+        "wr": 0.69,
+        "games": 19
+      },
+      "Deathwatch": {
+        "wr": 0.58,
+        "games": 24
+      },
+      "Drukhari": {
+        "wr": 0.47,
+        "games": 29
+      },
+      "Emperor's Children": {
+        "wr": 0.36,
+        "games": 34
+      },
+      "Genestealer Cults": {
+        "wr": 0.66,
+        "games": 39
+      },
+      "Grey Knights": {
+        "wr": 0.55,
+        "games": 44
+      },
+      "Imperial Agents": {
+        "wr": 0.44,
+        "games": 49
+      },
+      "Leagues of Votann": {
+        "wr": 0.33,
+        "games": 57
+      },
+      "Necrons": {
+        "wr": 0.4,
+        "games": 10
+      },
+      "No Faction": {
+        "wr": 0.47,
+        "games": 13
+      },
+      "Orks": {
+        "wr": 0.54,
+        "games": 16
+      },
+      "Space Marines": {
+        "wr": 0.61,
+        "games": 19
+      },
+      "Space Wolves": {
+        "wr": 0.68,
+        "games": 22
+      },
+      "T'au Empire": {
+        "wr": 0.34,
+        "games": 25
+      },
+      "Thousand Sons": {
+        "wr": 0.41,
+        "games": 28
+      },
+      "Tyranids": {
+        "wr": 0.48,
+        "games": 31
+      },
+      "World Eaters": {
+        "wr": 0.55,
+        "games": 34
+      }
+    },
+    "Leagues of Votann": {
+      "Adepta Sororitas": {
+        "wr": 0.6,
+        "games": 17
+      },
+      "Adeptus Custodes": {
+        "wr": 0.49,
+        "games": 22
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.38,
+        "games": 27
+      },
+      "Aeldari": {
+        "wr": 0.68,
+        "games": 32
+      },
+      "Astra Militarum": {
+        "wr": 0.57,
+        "games": 37
+      },
+      "Black Templars": {
+        "wr": 0.46,
+        "games": 42
+      },
+      "Blood Angels": {
+        "wr": 0.35,
+        "games": 47
+      },
+      "Chaos Daemons": {
+        "wr": 0.65,
+        "games": 52
+      },
+      "Chaos Knights": {
+        "wr": 0.54,
+        "games": 57
+      },
+      "Chaos Space Marines": {
+        "wr": 0.43,
+        "games": 12
+      },
+      "Dark Angels": {
+        "wr": 0.32,
+        "games": 17
+      },
+      "Death Guard": {
+        "wr": 0.62,
+        "games": 22
+      },
+      "Deathwatch": {
+        "wr": 0.51,
+        "games": 27
+      },
+      "Drukhari": {
+        "wr": 0.4,
+        "games": 32
+      },
+      "Emperor's Children": {
+        "wr": 0.7,
+        "games": 37
+      },
+      "Genestealer Cults": {
+        "wr": 0.59,
+        "games": 42
+      },
+      "Grey Knights": {
+        "wr": 0.48,
+        "games": 47
+      },
+      "Imperial Agents": {
+        "wr": 0.37,
+        "games": 52
+      },
+      "Imperial Knights": {
+        "wr": 0.67,
+        "games": 57
+      },
+      "Necrons": {
+        "wr": 0.51,
+        "games": 15
+      },
+      "No Faction": {
+        "wr": 0.58,
+        "games": 18
+      },
+      "Orks": {
+        "wr": 0.65,
+        "games": 21
+      },
+      "Space Marines": {
+        "wr": 0.31,
+        "games": 24
+      },
+      "Space Wolves": {
+        "wr": 0.38,
+        "games": 27
+      },
+      "T'au Empire": {
+        "wr": 0.45,
+        "games": 30
+      },
+      "Thousand Sons": {
+        "wr": 0.52,
+        "games": 33
+      },
+      "Tyranids": {
+        "wr": 0.59,
+        "games": 36
+      },
+      "World Eaters": {
+        "wr": 0.66,
+        "games": 39
+      }
+    },
+    "Necrons": {
+      "Adepta Sororitas": {
+        "wr": 0.53,
+        "games": 20
+      },
+      "Adeptus Custodes": {
+        "wr": 0.42,
+        "games": 25
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.31,
+        "games": 30
+      },
+      "Aeldari": {
+        "wr": 0.61,
+        "games": 35
+      },
+      "Astra Militarum": {
+        "wr": 0.5,
+        "games": 40
+      },
+      "Black Templars": {
+        "wr": 0.39,
+        "games": 45
+      },
+      "Blood Angels": {
+        "wr": 0.69,
+        "games": 50
+      },
+      "Chaos Daemons": {
+        "wr": 0.58,
+        "games": 55
+      },
+      "Chaos Knights": {
+        "wr": 0.47,
+        "games": 10
+      },
+      "Chaos Space Marines": {
+        "wr": 0.36,
+        "games": 15
+      },
+      "Dark Angels": {
+        "wr": 0.66,
+        "games": 20
+      },
+      "Death Guard": {
+        "wr": 0.55,
+        "games": 25
+      },
+      "Deathwatch": {
+        "wr": 0.44,
+        "games": 30
+      },
+      "Drukhari": {
+        "wr": 0.33,
+        "games": 35
+      },
+      "Emperor's Children": {
+        "wr": 0.63,
+        "games": 40
+      },
+      "Genestealer Cults": {
+        "wr": 0.52,
+        "games": 45
+      },
+      "Grey Knights": {
+        "wr": 0.41,
+        "games": 50
+      },
+      "Imperial Agents": {
+        "wr": 0.3,
+        "games": 55
+      },
+      "Imperial Knights": {
+        "wr": 0.6,
+        "games": 10
+      },
+      "Leagues of Votann": {
+        "wr": 0.49,
+        "games": 15
+      },
+      "No Faction": {
+        "wr": 0.69,
+        "games": 23
+      },
+      "Orks": {
+        "wr": 0.35,
+        "games": 26
+      },
+      "Space Marines": {
+        "wr": 0.42,
+        "games": 29
+      },
+      "Space Wolves": {
+        "wr": 0.49,
+        "games": 32
+      },
+      "T'au Empire": {
+        "wr": 0.56,
+        "games": 35
+      },
+      "Thousand Sons": {
+        "wr": 0.63,
+        "games": 38
+      },
+      "Tyranids": {
+        "wr": 0.7,
+        "games": 41
+      },
+      "World Eaters": {
+        "wr": 0.36,
+        "games": 44
+      }
+    },
+    "No Faction": {
+      "Adepta Sororitas": {
+        "wr": 0.46,
+        "games": 23
+      },
+      "Adeptus Custodes": {
+        "wr": 0.35,
+        "games": 28
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.65,
+        "games": 33
+      },
+      "Aeldari": {
+        "wr": 0.54,
+        "games": 38
+      },
+      "Astra Militarum": {
+        "wr": 0.43,
+        "games": 43
+      },
+      "Black Templars": {
+        "wr": 0.32,
+        "games": 48
+      },
+      "Blood Angels": {
+        "wr": 0.62,
+        "games": 53
+      },
+      "Chaos Daemons": {
+        "wr": 0.51,
+        "games": 58
+      },
+      "Chaos Knights": {
+        "wr": 0.4,
+        "games": 13
+      },
+      "Chaos Space Marines": {
+        "wr": 0.7,
+        "games": 18
+      },
+      "Dark Angels": {
+        "wr": 0.59,
+        "games": 23
+      },
+      "Death Guard": {
+        "wr": 0.48,
+        "games": 28
+      },
+      "Deathwatch": {
+        "wr": 0.37,
+        "games": 33
+      },
+      "Drukhari": {
+        "wr": 0.67,
+        "games": 38
+      },
+      "Emperor's Children": {
+        "wr": 0.56,
+        "games": 43
+      },
+      "Genestealer Cults": {
+        "wr": 0.45,
+        "games": 48
+      },
+      "Grey Knights": {
+        "wr": 0.34,
+        "games": 53
+      },
+      "Imperial Agents": {
+        "wr": 0.64,
+        "games": 58
+      },
+      "Imperial Knights": {
+        "wr": 0.53,
+        "games": 13
+      },
+      "Leagues of Votann": {
+        "wr": 0.42,
+        "games": 18
+      },
+      "Necrons": {
+        "wr": 0.31,
+        "games": 23
+      },
+      "Orks": {
+        "wr": 0.46,
+        "games": 31
+      },
+      "Space Marines": {
+        "wr": 0.53,
+        "games": 34
+      },
+      "Space Wolves": {
+        "wr": 0.6,
+        "games": 37
+      },
+      "T'au Empire": {
+        "wr": 0.67,
+        "games": 40
+      },
+      "Thousand Sons": {
+        "wr": 0.33,
+        "games": 43
+      },
+      "Tyranids": {
+        "wr": 0.4,
+        "games": 46
+      },
+      "World Eaters": {
+        "wr": 0.47,
+        "games": 49
+      }
+    },
+    "Orks": {
+      "Adepta Sororitas": {
+        "wr": 0.39,
+        "games": 26
+      },
+      "Adeptus Custodes": {
+        "wr": 0.69,
+        "games": 31
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.58,
+        "games": 36
+      },
+      "Aeldari": {
+        "wr": 0.47,
+        "games": 41
+      },
+      "Astra Militarum": {
+        "wr": 0.36,
+        "games": 46
+      },
+      "Black Templars": {
+        "wr": 0.66,
+        "games": 51
+      },
+      "Blood Angels": {
+        "wr": 0.55,
+        "games": 56
+      },
+      "Chaos Daemons": {
+        "wr": 0.44,
+        "games": 11
+      },
+      "Chaos Knights": {
+        "wr": 0.33,
+        "games": 16
+      },
+      "Chaos Space Marines": {
+        "wr": 0.63,
+        "games": 21
+      },
+      "Dark Angels": {
+        "wr": 0.52,
+        "games": 26
+      },
+      "Death Guard": {
+        "wr": 0.41,
+        "games": 31
+      },
+      "Deathwatch": {
+        "wr": 0.3,
+        "games": 36
+      },
+      "Drukhari": {
+        "wr": 0.6,
+        "games": 41
+      },
+      "Emperor's Children": {
+        "wr": 0.49,
+        "games": 46
+      },
+      "Genestealer Cults": {
+        "wr": 0.38,
+        "games": 51
+      },
+      "Grey Knights": {
+        "wr": 0.68,
+        "games": 56
+      },
+      "Imperial Agents": {
+        "wr": 0.57,
+        "games": 11
+      },
+      "Imperial Knights": {
+        "wr": 0.46,
+        "games": 16
+      },
+      "Leagues of Votann": {
+        "wr": 0.35,
+        "games": 21
+      },
+      "Necrons": {
+        "wr": 0.65,
+        "games": 26
+      },
+      "No Faction": {
+        "wr": 0.54,
+        "games": 31
+      },
+      "Space Marines": {
+        "wr": 0.64,
+        "games": 39
+      },
+      "Space Wolves": {
+        "wr": 0.3,
+        "games": 42
+      },
+      "T'au Empire": {
+        "wr": 0.37,
+        "games": 45
+      },
+      "Thousand Sons": {
+        "wr": 0.44,
+        "games": 48
+      },
+      "Tyranids": {
+        "wr": 0.51,
+        "games": 51
+      },
+      "World Eaters": {
+        "wr": 0.58,
+        "games": 54
+      }
+    },
+    "Space Marines": {
+      "Adepta Sororitas": {
+        "wr": 0.32,
+        "games": 29
+      },
+      "Adeptus Custodes": {
+        "wr": 0.62,
+        "games": 34
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.51,
+        "games": 39
+      },
+      "Aeldari": {
+        "wr": 0.4,
+        "games": 44
+      },
+      "Astra Militarum": {
+        "wr": 0.7,
+        "games": 49
+      },
+      "Black Templars": {
+        "wr": 0.59,
+        "games": 54
+      },
+      "Blood Angels": {
+        "wr": 0.48,
+        "games": 59
+      },
+      "Chaos Daemons": {
+        "wr": 0.37,
+        "games": 14
+      },
+      "Chaos Knights": {
+        "wr": 0.67,
+        "games": 19
+      },
+      "Chaos Space Marines": {
+        "wr": 0.56,
+        "games": 24
+      },
+      "Dark Angels": {
+        "wr": 0.45,
+        "games": 29
+      },
+      "Death Guard": {
+        "wr": 0.34,
+        "games": 34
+      },
+      "Deathwatch": {
+        "wr": 0.64,
+        "games": 39
+      },
+      "Drukhari": {
+        "wr": 0.53,
+        "games": 44
+      },
+      "Emperor's Children": {
+        "wr": 0.42,
+        "games": 49
+      },
+      "Genestealer Cults": {
+        "wr": 0.31,
+        "games": 54
+      },
+      "Grey Knights": {
+        "wr": 0.61,
+        "games": 59
+      },
+      "Imperial Agents": {
+        "wr": 0.5,
+        "games": 14
+      },
+      "Imperial Knights": {
+        "wr": 0.39,
+        "games": 19
+      },
+      "Leagues of Votann": {
+        "wr": 0.69,
+        "games": 24
+      },
+      "Necrons": {
+        "wr": 0.58,
+        "games": 29
+      },
+      "No Faction": {
+        "wr": 0.47,
+        "games": 34
+      },
+      "Orks": {
+        "wr": 0.36,
+        "games": 39
+      },
+      "Space Wolves": {
+        "wr": 0.41,
+        "games": 47
+      },
+      "T'au Empire": {
+        "wr": 0.48,
+        "games": 50
+      },
+      "Thousand Sons": {
+        "wr": 0.55,
+        "games": 53
+      },
+      "Tyranids": {
+        "wr": 0.62,
+        "games": 56
+      },
+      "World Eaters": {
+        "wr": 0.69,
+        "games": 59
+      }
+    },
+    "Space Wolves": {
+      "Adepta Sororitas": {
+        "wr": 0.66,
+        "games": 32
+      },
+      "Adeptus Custodes": {
+        "wr": 0.55,
+        "games": 37
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.44,
+        "games": 42
+      },
+      "Aeldari": {
+        "wr": 0.33,
+        "games": 47
+      },
+      "Astra Militarum": {
+        "wr": 0.63,
+        "games": 52
+      },
+      "Black Templars": {
+        "wr": 0.52,
+        "games": 57
+      },
+      "Blood Angels": {
+        "wr": 0.41,
+        "games": 12
+      },
+      "Chaos Daemons": {
+        "wr": 0.3,
+        "games": 17
+      },
+      "Chaos Knights": {
+        "wr": 0.6,
+        "games": 22
+      },
+      "Chaos Space Marines": {
+        "wr": 0.49,
+        "games": 27
+      },
+      "Dark Angels": {
+        "wr": 0.38,
+        "games": 32
+      },
+      "Death Guard": {
+        "wr": 0.68,
+        "games": 37
+      },
+      "Deathwatch": {
+        "wr": 0.57,
+        "games": 42
+      },
+      "Drukhari": {
+        "wr": 0.46,
+        "games": 47
+      },
+      "Emperor's Children": {
+        "wr": 0.35,
+        "games": 52
+      },
+      "Genestealer Cults": {
+        "wr": 0.65,
+        "games": 57
+      },
+      "Grey Knights": {
+        "wr": 0.54,
+        "games": 12
+      },
+      "Imperial Agents": {
+        "wr": 0.43,
+        "games": 17
+      },
+      "Imperial Knights": {
+        "wr": 0.32,
+        "games": 22
+      },
+      "Leagues of Votann": {
+        "wr": 0.62,
+        "games": 27
+      },
+      "Necrons": {
+        "wr": 0.51,
+        "games": 32
+      },
+      "No Faction": {
+        "wr": 0.4,
+        "games": 37
+      },
+      "Orks": {
+        "wr": 0.7,
+        "games": 42
+      },
+      "Space Marines": {
+        "wr": 0.59,
+        "games": 47
+      },
+      "T'au Empire": {
+        "wr": 0.59,
+        "games": 55
+      },
+      "Thousand Sons": {
+        "wr": 0.66,
+        "games": 58
+      },
+      "Tyranids": {
+        "wr": 0.32,
+        "games": 11
+      },
+      "World Eaters": {
+        "wr": 0.39,
+        "games": 14
+      }
+    },
+    "T'au Empire": {
+      "Adepta Sororitas": {
+        "wr": 0.59,
+        "games": 35
+      },
+      "Adeptus Custodes": {
+        "wr": 0.48,
+        "games": 40
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.37,
+        "games": 45
+      },
+      "Aeldari": {
+        "wr": 0.67,
+        "games": 50
+      },
+      "Astra Militarum": {
+        "wr": 0.56,
+        "games": 55
+      },
+      "Black Templars": {
+        "wr": 0.45,
+        "games": 10
+      },
+      "Blood Angels": {
+        "wr": 0.34,
+        "games": 15
+      },
+      "Chaos Daemons": {
+        "wr": 0.64,
+        "games": 20
+      },
+      "Chaos Knights": {
+        "wr": 0.53,
+        "games": 25
+      },
+      "Chaos Space Marines": {
+        "wr": 0.42,
+        "games": 30
+      },
+      "Dark Angels": {
+        "wr": 0.31,
+        "games": 35
+      },
+      "Death Guard": {
+        "wr": 0.61,
+        "games": 40
+      },
+      "Deathwatch": {
+        "wr": 0.5,
+        "games": 45
+      },
+      "Drukhari": {
+        "wr": 0.39,
+        "games": 50
+      },
+      "Emperor's Children": {
+        "wr": 0.69,
+        "games": 55
+      },
+      "Genestealer Cults": {
+        "wr": 0.58,
+        "games": 10
+      },
+      "Grey Knights": {
+        "wr": 0.47,
+        "games": 15
+      },
+      "Imperial Agents": {
+        "wr": 0.36,
+        "games": 20
+      },
+      "Imperial Knights": {
+        "wr": 0.66,
+        "games": 25
+      },
+      "Leagues of Votann": {
+        "wr": 0.55,
+        "games": 30
+      },
+      "Necrons": {
+        "wr": 0.44,
+        "games": 35
+      },
+      "No Faction": {
+        "wr": 0.33,
+        "games": 40
+      },
+      "Orks": {
+        "wr": 0.63,
+        "games": 45
+      },
+      "Space Marines": {
+        "wr": 0.52,
+        "games": 50
+      },
+      "Space Wolves": {
+        "wr": 0.41,
+        "games": 55
+      },
+      "Thousand Sons": {
+        "wr": 0.36,
+        "games": 13
+      },
+      "Tyranids": {
+        "wr": 0.43,
+        "games": 16
+      },
+      "World Eaters": {
+        "wr": 0.5,
+        "games": 19
+      }
+    },
+    "Thousand Sons": {
+      "Adepta Sororitas": {
+        "wr": 0.52,
+        "games": 38
+      },
+      "Adeptus Custodes": {
+        "wr": 0.41,
+        "games": 43
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.3,
+        "games": 48
+      },
+      "Aeldari": {
+        "wr": 0.6,
+        "games": 53
+      },
+      "Astra Militarum": {
+        "wr": 0.49,
+        "games": 58
+      },
+      "Black Templars": {
+        "wr": 0.38,
+        "games": 13
+      },
+      "Blood Angels": {
+        "wr": 0.68,
+        "games": 18
+      },
+      "Chaos Daemons": {
+        "wr": 0.57,
+        "games": 23
+      },
+      "Chaos Knights": {
+        "wr": 0.46,
+        "games": 28
+      },
+      "Chaos Space Marines": {
+        "wr": 0.35,
+        "games": 33
+      },
+      "Dark Angels": {
+        "wr": 0.65,
+        "games": 38
+      },
+      "Death Guard": {
+        "wr": 0.54,
+        "games": 43
+      },
+      "Deathwatch": {
+        "wr": 0.43,
+        "games": 48
+      },
+      "Drukhari": {
+        "wr": 0.32,
+        "games": 53
+      },
+      "Emperor's Children": {
+        "wr": 0.62,
+        "games": 58
+      },
+      "Genestealer Cults": {
+        "wr": 0.51,
+        "games": 13
+      },
+      "Grey Knights": {
+        "wr": 0.4,
+        "games": 18
+      },
+      "Imperial Agents": {
+        "wr": 0.7,
+        "games": 23
+      },
+      "Imperial Knights": {
+        "wr": 0.59,
+        "games": 28
+      },
+      "Leagues of Votann": {
+        "wr": 0.48,
+        "games": 33
+      },
+      "Necrons": {
+        "wr": 0.37,
+        "games": 38
+      },
+      "No Faction": {
+        "wr": 0.67,
+        "games": 43
+      },
+      "Orks": {
+        "wr": 0.56,
+        "games": 48
+      },
+      "Space Marines": {
+        "wr": 0.45,
+        "games": 53
+      },
+      "Space Wolves": {
+        "wr": 0.34,
+        "games": 58
+      },
+      "T'au Empire": {
+        "wr": 0.64,
+        "games": 13
+      },
+      "Tyranids": {
+        "wr": 0.54,
+        "games": 21
+      },
+      "World Eaters": {
+        "wr": 0.61,
+        "games": 24
+      }
+    },
+    "Tyranids": {
+      "Adepta Sororitas": {
+        "wr": 0.45,
+        "games": 41
+      },
+      "Adeptus Custodes": {
+        "wr": 0.34,
+        "games": 46
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.64,
+        "games": 51
+      },
+      "Aeldari": {
+        "wr": 0.53,
+        "games": 56
+      },
+      "Astra Militarum": {
+        "wr": 0.42,
+        "games": 11
+      },
+      "Black Templars": {
+        "wr": 0.31,
+        "games": 16
+      },
+      "Blood Angels": {
+        "wr": 0.61,
+        "games": 21
+      },
+      "Chaos Daemons": {
+        "wr": 0.5,
+        "games": 26
+      },
+      "Chaos Knights": {
+        "wr": 0.39,
+        "games": 31
+      },
+      "Chaos Space Marines": {
+        "wr": 0.69,
+        "games": 36
+      },
+      "Dark Angels": {
+        "wr": 0.58,
+        "games": 41
+      },
+      "Death Guard": {
+        "wr": 0.47,
+        "games": 46
+      },
+      "Deathwatch": {
+        "wr": 0.36,
+        "games": 51
+      },
+      "Drukhari": {
+        "wr": 0.66,
+        "games": 56
+      },
+      "Emperor's Children": {
+        "wr": 0.55,
+        "games": 11
+      },
+      "Genestealer Cults": {
+        "wr": 0.44,
+        "games": 16
+      },
+      "Grey Knights": {
+        "wr": 0.33,
+        "games": 21
+      },
+      "Imperial Agents": {
+        "wr": 0.63,
+        "games": 26
+      },
+      "Imperial Knights": {
+        "wr": 0.52,
+        "games": 31
+      },
+      "Leagues of Votann": {
+        "wr": 0.41,
+        "games": 36
+      },
+      "Necrons": {
+        "wr": 0.3,
+        "games": 41
+      },
+      "No Faction": {
+        "wr": 0.6,
+        "games": 46
+      },
+      "Orks": {
+        "wr": 0.49,
+        "games": 51
+      },
+      "Space Marines": {
+        "wr": 0.38,
+        "games": 56
+      },
+      "Space Wolves": {
+        "wr": 0.68,
+        "games": 11
+      },
+      "T'au Empire": {
+        "wr": 0.57,
+        "games": 16
+      },
+      "Thousand Sons": {
+        "wr": 0.46,
+        "games": 21
+      },
+      "World Eaters": {
+        "wr": 0.31,
+        "games": 29
+      }
+    },
+    "World Eaters": {
+      "Adepta Sororitas": {
+        "wr": 0.38,
+        "games": 44
+      },
+      "Adeptus Custodes": {
+        "wr": 0.68,
+        "games": 49
+      },
+      "Adeptus Mechanicus": {
+        "wr": 0.57,
+        "games": 54
+      },
+      "Aeldari": {
+        "wr": 0.46,
+        "games": 59
+      },
+      "Astra Militarum": {
+        "wr": 0.35,
+        "games": 14
+      },
+      "Black Templars": {
+        "wr": 0.65,
+        "games": 19
+      },
+      "Blood Angels": {
+        "wr": 0.54,
+        "games": 24
+      },
+      "Chaos Daemons": {
+        "wr": 0.43,
+        "games": 29
+      },
+      "Chaos Knights": {
+        "wr": 0.32,
+        "games": 34
+      },
+      "Chaos Space Marines": {
+        "wr": 0.62,
+        "games": 39
+      },
+      "Dark Angels": {
+        "wr": 0.51,
+        "games": 44
+      },
+      "Death Guard": {
+        "wr": 0.4,
+        "games": 49
+      },
+      "Deathwatch": {
+        "wr": 0.7,
+        "games": 54
+      },
+      "Drukhari": {
+        "wr": 0.59,
+        "games": 59
+      },
+      "Emperor's Children": {
+        "wr": 0.48,
+        "games": 14
+      },
+      "Genestealer Cults": {
+        "wr": 0.37,
+        "games": 19
+      },
+      "Grey Knights": {
+        "wr": 0.67,
+        "games": 24
+      },
+      "Imperial Agents": {
+        "wr": 0.56,
+        "games": 29
+      },
+      "Imperial Knights": {
+        "wr": 0.45,
+        "games": 34
+      },
+      "Leagues of Votann": {
+        "wr": 0.34,
+        "games": 39
+      },
+      "Necrons": {
+        "wr": 0.64,
+        "games": 44
+      },
+      "No Faction": {
+        "wr": 0.53,
+        "games": 49
+      },
+      "Orks": {
+        "wr": 0.42,
+        "games": 54
+      },
+      "Space Marines": {
+        "wr": 0.31,
+        "games": 59
+      },
+      "Space Wolves": {
+        "wr": 0.61,
+        "games": 14
+      },
+      "T'au Empire": {
+        "wr": 0.5,
+        "games": 19
+      },
+      "Thousand Sons": {
+        "wr": 0.39,
+        "games": 24
+      },
+      "Tyranids": {
+        "wr": 0.69,
+        "games": 29
+      }
+    }
+  }
+}

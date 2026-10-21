@@ -1,0 +1,31 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  // Warp Dust Crusaders coach board: one Worker serves the built board (./dist) and the two
+  // endpoints GET /api/board and POST /api/save. Setup steps: README.md, "Deploy".
+  "name": "warp-dust-crusaders-board",
+  // Your Cloudflare account id (Workers & Pages overview, right-hand column). Pinning it here keeps
+  // wrangler from asking which account on every deploy. Or export CLOUDFLARE_ACCOUNT_ID instead.
+  "account_id": "YOUR_CLOUDFLARE_ACCOUNT_ID",
+  "main": "src/worker/index.ts",
+  "compatibility_date": "2025-09-01",
+  "workers_dev": true,
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    // Every request goes through the Worker first, so the security headers land on the board's
+    // HTML and assets too, not only on /api responses.
+    "run_worker_first": true
+  },
+  "kv_namespaces": [
+    {
+      "binding": "WDC_KV",
+      // From `npx wrangler kv namespace create WDC_KV` (README, "Deploy").
+      "id": "YOUR_KV_NAMESPACE_ID"
+    }
+  ],
+  "observability": { "enabled": true }
+  // Secrets (never in this file): WDC_PIN_SHA256 and WDC_PIN_OFF, set with `wrangler secret put`.
+  // Custom domain: add a "routes" entry, e.g. { "pattern": "warpdustcrusader.com", "custom_domain": true },
+  // once the zone is on the Cloudflare account.
+}
